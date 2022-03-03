@@ -1,0 +1,9 @@
+1- Um repositório é um local para desenvolvedores armazenarem seus arquivos e programas. 
+
+2- A diferença entre o Git e o GitHub é que o Git é uma ferramenta onde mais de um desenvolvedor possa trabalhar ao mesmo tempo, alterando programas localmente. 
+Já o GitHub é uma rede social para desenvolvedores. 
+
+3- É importante usar o controle de versão para o monitoramento da versão mais recente dos arquivos de um projeto. Assim facilita para os desenvolvedores 
+que trablham ao mesmo tempo nesse projeto.
+
+4- As vantagens de se utilizar o Git seria para ter controle de versão . Sim, utilizaria. 
